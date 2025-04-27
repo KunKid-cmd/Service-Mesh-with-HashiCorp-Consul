@@ -13,7 +13,7 @@ original from this [GitLab](https://gitlab.com/twn-youtube/consul-crash-course)
 
 ## 2. Create a terraform.tfvars
 
-Inside terraform/ directory, create a file named terraform.tfvars with this you aws details:
+Inside the terraform/ directory, create a file named terraform.tfvars with your AWS details:
 ```
 aws_region = "YOUR_AWS_REGION"
 aws_access_key_id = "YOUR_AWS_ACCESS_KEY"
